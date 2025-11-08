@@ -66,7 +66,7 @@ finetune-gemma-270m-sql/
 ### Run in Colab
 
 Click the badge below to open the ready-to-use notebook:
-👉 [**Open in Colab**](https://colab.research.google.com/github/Ashisane/finetune-gemma-270m-sql/blob/main/Finetune_Gemma_SQL.ipynb)
+👉 [**Open in Colab**](https://colab.research.google.com/drive/1qDuRqzCWARbiwKTkxNZDYir_aQIUwmzW?usp=sharing)
 
 The notebook automatically:
 
@@ -94,12 +94,12 @@ python train.py
 
 Dataset: [**Ashisane/gemma-sql**](https://huggingface.co/datasets/Ashisane/gemma-sql)
 
-| Property   | Value                                         |
-| ---------- | --------------------------------------------- |
-| Records    | ~2,000                                        |
-| Format     | JSONL (`text` field with Gemma chat markup) |
-| License    | MIT                                           |
-| Hosted on  | Hugging Face Datasets                         |
+| Property  | Value                                         |
+| --------- | --------------------------------------------- |
+| Records   | ~2,000                                        |
+| Format    | JSONL (`text` field with Gemma chat markup) |
+| License   | MIT                                           |
+| Hosted on | Hugging Face Datasets                         |
 
 Example record:
 
